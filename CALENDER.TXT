@@ -1,0 +1,44 @@
+     print ('😁💕----CALENDER---😁💕')
+print ('----& MONTH OF OCTOBER & ---')
+print ('----x----------------------x-------')
+print ('---please enter the date --') n = int (input ()) if
+  n == 2
+or n == 9 or n == 16 or n == 23 or n == 30:
+  print ('sunday') if (n == 2)
+  :
+    print ('Gandhi Jyanti') if (n == 9)
+    :
+      print ('Maharishi valmiki jyanti') print ('id-e-milad') if (n == 30)
+      :
+   print ('Chatpuja--my love ') elif n == 3 or n == 10 or n == 17 or n == 24 or n == 31:
+print ('MONDAY')
+  if (n == 3)
+:
+  print ('Maha Ashtami') if (n == 24)
+  :
+  print ('Diwali/Dipawali--is baar nhi ghar ni ja payenge') elif n == 4 or n == 11 or n == 18 or n == 25:
+    print ('TUESDAY')
+      if (n == 4)
+    :
+      print ("Maha navmi") if (n == 25)
+      :
+      print ("Govardhan Puja") elif n == 28 or n == 5 or n == 12 or n == 19 or n == 26:
+	print ('WEDNESDAY')
+	  if (n == 5)
+	:
+	  print ("Dusshera") if (n == 26)
+	  :
+	  print ("Bhai Duj") elif n == 29 or n == 6 or n == 13 or n == 20 or n == 27:
+	    print ('THRUSDAY')
+	      if (n == 13)
+	    :
+	    print ("karva chauth") elif n == 30 or n == 7 or n == 14 or n == 21 or n == 28:
+	    print ('FRIDAY') elif n == 1 or n == 8 or n == 15 or 22 or n == 29:
+	      print ('SATURDAY')
+		if (n == 1)
+	      :
+		print ("First Day")
+		else
+	      :
+		print ('---x-invalid date--x--'😒)
+		  print ('--thnks to ask-/*==+---have--a--good--day--❤️-')
